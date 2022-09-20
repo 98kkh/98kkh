@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=강현이네%20깃허브&animation=twinkling&&fontSize=90)
 
 
-<a href="https://www.instagram.com/98_kanghyun/" target="_blank"><img src="https://img.shields.io/badge/SNS-Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
+                                      <a href="https://www.instagram.com/98_kanghyun/" target="_blank"><img src="https://img.shields.io/badge/SNS-Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
 
 # AIcontrrol
