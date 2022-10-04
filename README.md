@@ -54,3 +54,11 @@
 | 기계정비 산업기사 | 2023 | 합격예정 |
 
 
+|함수|함수|함수|함수|
+|-----|-----|-----|-----|
+|int|float|complxe|str|
+|repr|eval|tuple|list|
+|set|dict|frozenset|chr|
+|unichr|ord|hex|oct|
+
+
