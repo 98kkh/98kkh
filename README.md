@@ -1,14 +1,12 @@
+![1786b119778bb1ca718047c3a20e7285](https://user-images.githubusercontent.com/112370499/195759721-63174fde-5a75-4793-9eed-092fefac731c.gif)
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=강현이네%20깃허브&animation=twinkling&&fontSize=90)
 
 
 <a href="https://www.instagram.com/98_kanghyun/" target="_blank"><img src="https://img.shields.io/badge/SNS-Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 # AIcontrrol
 
