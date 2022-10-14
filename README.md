@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NX-143055?style=flat-square&logo=NX&logoColor=white"/></a>
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98kkh&count_bg=%23B99ADB&title_bg=%23C146D7&icon=&icon_color=%23F39494&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
