@@ -4,10 +4,6 @@
 
 <a href="https://www.instagram.com/98_kanghyun/" target="_blank"><img src="https://img.shields.io/badge/SNS-Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
-
-# AIcontrrol
-
-## 나의 첫 번째 마크다운 파일입니다.
 ### vim extension test 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
