@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=강현이네%20깃허브&animation=twinkling&&fontSize=90)
- <div align="center"
-![1786b119778bb1ca718047c3a20e7285](https://user-images.githubusercontent.com/112370499/195759721-63174fde-5a75-4793-9eed-092fefac731c.gif)
+
+<div align="center"![1786b119778bb1ca718047c3a20e7285](https://user-images.githubusercontent.com/112370499/195759721-63174fde-5a75-4793-9eed-092fefac731c.gif)
 
 <a href="https://www.instagram.com/98_kanghyun/" target="_blank"><img src="https://img.shields.io/badge/SNS-Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
