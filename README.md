@@ -61,10 +61,9 @@
 | 지게차운전기능사 | 2022 | 합격예정 |
 | 기계정비 산업기사 | 2023 | 합격예정 |
 
-9/20 project
+# 9/20 project
 
 | Data Type Conversion |
----
 | sr.No. |  Function&Description |
 | :-------------: | :---------------: |
 | int(x[,base] | x를 정수로 변환합니다. x가 문자열인 경우 베이스가 지정됩니다. |
