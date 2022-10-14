@@ -3,8 +3,7 @@
 
 <a href="https://www.instagram.com/98_kanghyun/" target="_blank"><img src="https://img.shields.io/badge/SNS-Instagram-E4405F?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/98kkh?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 # AIcontrrol
 
