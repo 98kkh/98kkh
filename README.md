@@ -1,3 +1,4 @@
+ <div align="center"
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=강현이네%20깃허브&animation=twinkling&&fontSize=90)
 
 ![1786b119778bb1ca718047c3a20e7285](https://user-images.githubusercontent.com/112370499/195759721-63174fde-5a75-4793-9eed-092fefac731c.gif)
@@ -69,5 +70,5 @@
 |repr|eval|tuple|list|
 |set|dict|frozenset|chr|
 |unichr|ord|hex|oct|
-
+ /div>
 
