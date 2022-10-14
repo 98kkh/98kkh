@@ -10,7 +10,7 @@
 ### vim extension test 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C%B-#A8B9CCstyle=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%B-A8B9CCstyle=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
