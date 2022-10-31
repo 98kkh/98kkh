@@ -83,5 +83,12 @@
 | hex(x) | 정수를 16진수 문자열로 변환합니다. |
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
+#11/1 AI project 계획
+|[AI 제어 실습 프로젝트 계획.pptx](https://github.com/98kkh/98kkh/files/9898983/AI.pptx)
+
+
+
+
+
  </div>
 
